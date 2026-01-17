@@ -1,7 +1,9 @@
 ## Exploratory Data Analysis and Statistical Modeling  
 **MI4011 Modeling Tools for Environmental Scientific Studies, Block 1**
+<img width="400" align="right"  alt="course_logo_transparent" src="./Pictures/outliers_out.png" />
 
 ### About this block
+
 
 This block introduces you to exploratory data analysis and statistical modeling using environmental datasets. You will learn how to examine data structure, visualize patterns, and apply statistical methods to support scientific interpretation and prediction.
 
