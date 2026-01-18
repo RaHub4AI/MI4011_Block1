@@ -1,5 +1,19 @@
 ![Python_logo](https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg)
 
+---
+This folder contains everything you need to get started with Python for this course.  
+Follow the sections in the order below.
+
+1. **Set up Python on your computer**  
+   Install Python, create the course environment, and make sure everything works correctly.  
+   ➜ [Python Setup and Installation](Python_Setup_and_Installation.md)
+
+2. **Learn the basics of Python syntax**  
+   Write your first Python programs and learn the core language rules.  
+   ➜ [Python Syntax Fundamentals](Python_Syntax_Fundamentals.md)
+
+---
+
 [Python](https://www.python.org/) is a *high-level, general-purpose programming language* used across many fields, including scientific research, data analysis, automation, web development, and machine learning. It is especially popular in science and data-driven disciplines because it is easy to read, flexible, and supported by a large ecosystem of libraries.
 
 `Python` was started in 1989 by [**Guido van Rossum**](https://en.wikipedia.org/wiki/Guido_van_Rossum) (webpage: https://gvanrossum.github.io/) as a side project during the Christmas holidays while he was working at the Centrum Wiskunde and Informatica in the Netherlands. The first public release appeared in 1991.
