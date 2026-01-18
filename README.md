@@ -5,9 +5,9 @@
 ### About this block
 
 
-This block introduces you to exploratory data analysis and statistical modeling using environmental datasets. You will learn how to examine data structure, visualize patterns, and apply statistical methods to support scientific interpretation and prediction.
+This block introduces you to exploratory data analysis (EDA) and statistical modeling using environmental datasets. You will learn how to examine data structure, visualize patterns, and apply statistical methods to support scientific interpretation and prediction.
 
-The block emphasizes a data-first workflow. You will explore datasets before fitting models, and you will learn how data characteristics such as distributions, variability, and outliers influence statistical choices. Examples and exercises are based on real problems from environmental chemistry, water quality, climate-related time series, and ecotoxicology.
+The block emphasizes a data-first workflow. You will explore datasets before fitting models and learn how data characteristics, such as distributions, variability, and outliers, influence statistical choices. Examples and exercises are based on real problems from environmental chemistry, water quality, climate-related time series, and ecotoxicology.
 
 All work in this block is carried out in Python using widely adopted scientific libraries. The focus is on clear, reproducible analysis similar to current research practice in environmental science.
 
@@ -15,7 +15,7 @@ All work in this block is carried out in Python using widely adopted scientific 
 
 ### Aims of the block
 
-The aim of this block is to give you the skills needed to analyze environmental data critically and responsibly. By the end of the block, you should be able to choose appropriate statistical tools, apply them correctly, and interpret results in a scientifically meaningful way.
+The aim of this block is to equip you with the skills to analyze environmental data critically and responsibly. By the end of the block, you should be able to choose appropriate statistical tools, apply them correctly, and interpret results in a scientifically meaningful way.
 
 Specifically, this block aims to help you:
 
@@ -54,7 +54,7 @@ By completing this block, you should be able to:
    - Assess model assumptions using diagnostic tools  
 
 6. **Evaluate and compare statistical models**  
-   - Use goodness of fit metrics such as R squared and RMSE  
+   - Use goodness of fit metrics such as $R^{2}$  and RMSE  
    - Identify overfitting and underfitting  
    - Select models that balance simplicity and performance  
 
