@@ -21,6 +21,23 @@ Below are selected external resources that I find useful for deepening understan
     For fun and to learn what to avoid, this Wikipedia article presents classic examples of misleading or confusing data visualizations and explains how poor design choices can distort information.  
     https://en.wikipedia.org/wiki/Misleading_graph
 
+### Programming
+
+A set of **cheat sheets and quick references** that will help you throughout the course.
+
+They are not a replacement for deeper learning, but rather a **fast reminder** of key concepts, commands, and common workflows.  
+Whenever you get stuck, it is often useful to check these resources first before returning to the full lecture notes or official documentation.
+
+- **General Python**
+  - https://media.datacamp.com/cms/python-basics-cheat-sheet-v4.pdf
+  - https://kieranholland.com/best-python-cheat-sheet/
+
+- **Pandas (official cheat sheet)**
+  - https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
+- **Matplotlib**
+  - https://matplotlib.org/cheatsheets/
+
 
 
 Students are encouraged to consult these resources if they want to go beyond the lecture material or need alternative explanations.
